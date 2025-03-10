@@ -4,7 +4,10 @@
 + Books, travelling and code are my passion
 + Yoga and Pilates are my energy 
 
-
+## Skills and Technologies:
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://simpleicons.org -->
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
  
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
