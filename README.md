@@ -1,6 +1,6 @@
 ## Hi, it is Margarita 👋
 
-+ I'm Fullstack Developer from Leipzig, DE
++ I'm Fullstack Software Engineer from Leipzig, DE
 + Books, travelling and code are my passion
 + Yoga and Pilates are my energy 
 
