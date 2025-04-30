@@ -1,6 +1,7 @@
 ## Hi, I'm Margarita 👋
 
-**Fullstack Software Engineer** based in Leipzig, Germany  
+**Fullstack Software Engineer** based in Leipzig, Germany
+
 📚 Books, 🧳 traveling, and 💻 coding are my passions  
 🧘 Yoga and Pilates keep me energized  
 
@@ -44,12 +45,13 @@ As a fullstack developer with a focus on **Python-based backend systems** and mo
 - **CI/CD pipelines** with GitHub Actions  
 
 ## 🔍 What Drives Me
-
+```markdown
 def continuous_improvement():
-while True:
-learn_new_tech()
-implement_best_practices()
-optimize_systems()
+    while True:
+        learn_new_tech()
+        implement_best_practices()
+        optimize_systems()
+```
 
 **My Tech Journey:**  
 Starting as a frontend specialist, I am evolving into a fullstack engineer with a strong backend and cloud focus. Currently deepening my expertise in:
