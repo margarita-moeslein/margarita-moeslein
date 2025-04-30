@@ -16,11 +16,15 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
   
   <!-- Backend -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-FFFFFF?logo=alchemy&logoColor=black&style=flat" />
   
   <!-- Cloud & DevOps -->
@@ -29,10 +33,17 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat" />
   
+  <!-- Atlassian Tools -->
+  <img alt="Atlassian" src="https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=white&style=flat" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat" />
+  
   <!-- Tools -->
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat" />
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=flat" />
+  <img alt="Husky" src="https://img.shields.io/badge/Husky-24292F?logo=husky&logoColor=white&style=flat" />
+  <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white&style=flat" />
 </p>
+
 
 ## 🚀 My Mission
 
