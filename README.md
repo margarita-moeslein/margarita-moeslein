@@ -1,33 +1,62 @@
-## Hi, it is Margarita 👋
+## Hi, I'm Margarita 👋
 
-+ I'm Fullstack Software Engineer from Leipzig, DE
-+ Books, travelling and code are my passion
-+ Yoga and Pilates are my energy 
+**Fullstack Software Engineer** based in Leipzig, Germany  
+📚 Books, 🧳 traveling, and 💻 coding are my passions  
+🧘 Yoga and Pilates keep me energized  
 
-## Skills and Technologies:
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- https://simpleicons.org -->
-<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
- 
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarita-moeslein) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/margarita_moeslein)
+
+## 🛠️ Skills & Technologies
+
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <!-- Frontend -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
+  
+  <!-- Backend -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-FFFFFF?logo=alchemy&logoColor=black&style=flat" />
+  
+  <!-- Cloud & DevOps -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat" />
+  
+  <!-- Tools -->
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat" />
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=flat" />
 </p>
 
-## Contact me or follow me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarita-moeslein) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/margarita_moeslein)
+## 🚀 My Mission
+
+As a fullstack developer with a focus on **Python-based backend systems** and modern frontend architectures, I build scalable solutions that blend technology and creativity.
+
+**Current focus areas:**
+- **Cloud-native development** using AWS infrastructure  
+- **Infrastructure as Code** with Terraform  
+- **Modern web architectures** with Flask and React  
+- **CI/CD pipelines** with GitHub Actions  
+
+## 🔍 What Drives Me
+
+def continuous_improvement():
+while True:
+learn_new_tech()
+implement_best_practices()
+optimize_systems()
+
+**My Tech Journey:**  
+Starting as a frontend specialist, I am evolving into a fullstack engineer with a strong backend and cloud focus. Currently deepening my expertise in:
+
+- **AWS services** (EC2, S3, Lambda)  
+- **Microservices architectures**  
+- **Database optimization** with PostgreSQL  
+- **Test automation** (pytest, Jest) 
+
+
