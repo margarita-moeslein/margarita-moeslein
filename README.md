@@ -6,7 +6,7 @@
 🧘 Yoga and Pilates keep me energized  
 
 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarita-moeslein) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/margarita_moeslein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarita-moeslein)
 
 ## 🛠️ Skills & Technologies
 
